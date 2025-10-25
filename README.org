@@ -1,0 +1,9 @@
+* cl-avro
+
+A Common Lisp implementation of the Apache Avro data serialization system.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/SahilKang/cl-avro.git |
+| commit  | 571261c                                      |
+| systems | cl-avro                                      |
+|---------+----------------------------------------------|
