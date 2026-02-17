@@ -4,6 +4,6 @@ A Common Lisp implementation of the Apache Avro data serialization system.
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/SahilKang/cl-avro.git |
-| commit  | 571261c                                      |
+| commit  | abd020f                                      |
 | systems | cl-avro                                      |
 |---------+----------------------------------------------|
